@@ -1,0 +1,17 @@
+{
+  "name": "chekpoint-nodejs",
+  "version": "1.0.0",
+  "description": "chekpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GO MY CODE",
+  "license": "MIT",
+  "devDependencies": {
+    "@jsenv/node-module-import-map": "^12.3.0"
+  },
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
